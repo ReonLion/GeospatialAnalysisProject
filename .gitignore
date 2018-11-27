@@ -115,3 +115,5 @@ dmypy.json
 
 *.wpr
 *.wpu
+*.pyc
+/MapMatching/temp/
